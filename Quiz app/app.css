@@ -123,3 +123,14 @@ img.naruto{
   border-radius: 15%;
   
 }
+
+/*footer*/
+.footer{
+  background-color: var(--rblack);
+  padding: 50px 0;
+}
+.container{
+  max-width: 1170px;
+  margin: auto;
+  background-color: var(--cinereous);
+}
